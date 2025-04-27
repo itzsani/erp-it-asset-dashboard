@@ -4,7 +4,7 @@ A professional SQL-based dashboard project for IT Asset Management, simulating a
 
 ## 🖥️ Preview
 
-*(Optional: Add screenshots showing sample dashboard or query results)*
+![ERP Dashboard Screenshot](screenshots/dashboard.png)
 
 ## 🚀 Features
 
